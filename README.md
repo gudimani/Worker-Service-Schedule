@@ -2,7 +2,7 @@
 
 ## How to run the API
 
-The data in the database can be setup using the knex. Please run the following commands to setup the database.
+The data in the database can be setup using Knex.js. Please run the following commands to setup the database.
 
 1. Setup a new database in postgres and update database NODE_ENV=test, name, port, password, host with newly created database in .env.
 2. Tables and data can be created by running the following commands
